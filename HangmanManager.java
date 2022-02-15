@@ -101,7 +101,7 @@ public class HangmanManager{
    }
    
    
-   
+   //not done
    public int record(char guess){
       sortSet(guess);
       
